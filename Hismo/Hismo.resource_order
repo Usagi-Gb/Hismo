@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Salas","order":6,"path":"folders/Salas.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"fmenu_inicial","order":2,"path":"fonts/fmenu_inicial/fmenu_inicial.yy",},
+    {"name":"oMenu_inicial","order":1,"path":"objects/oMenu_inicial/oMenu_inicial.yy",},
+    {"name":"roomconfig","order":1,"path":"rooms/roomconfig/roomconfig.yy",},
+    {"name":"roomjogo","order":2,"path":"rooms/roomjogo/roomjogo.yy",},
+    {"name":"roommuseu","order":3,"path":"rooms/roommuseu/roommuseu.yy",},
+  ],
+}
